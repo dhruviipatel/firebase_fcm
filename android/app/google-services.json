@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251627415701",
+    "project_id": "fir-practice-139a0",
+    "storage_bucket": "fir-practice-139a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251627415701:android:b92b4a29161efb4c8d539c",
+        "android_client_info": {
+          "package_name": "com.example.fcm_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpExCzTLO6toLLOaDwOfafOpUbnS9NskI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
